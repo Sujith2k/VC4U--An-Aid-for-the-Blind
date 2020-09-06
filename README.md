@@ -1,6 +1,6 @@
-# Hack-a-solution-VC4U
-For Hackathon Hack-a-solution
+# VC4U
 
-Team Members:
+
+# Team Members:
 Sujith Krishna S
 Thiruvikkraman S
