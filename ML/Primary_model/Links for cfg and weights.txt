@@ -1,0 +1,16 @@
+YOLO TINY:
+CFG:
+https://drive.google.com/file/d/1yYMfRh2-grNqd21PtujBW3piuuGLxJJZ/view?usp=sharing
+
+Weights:
+https://drive.google.com/file/d/1--MNqVQMLU5JUTg86h46yk1pJxR7LbKj/view?usp=sharing
+
+Weights in tflite format:
+https://drive.google.com/file/d/102WzLML7hZsNJPdtOMSsetIcrICjHuSV/view?usp=sharing
+
+YOLO:
+CFG :
+https://drive.google.com/file/d/1_4TVAeusQpajVVwL8ILZFyl8HkuZ6Z2e/view?usp=sharing
+
+Weights :
+https://drive.google.com/file/d/15klV_erJOQdckHnnsSIqhnPaZPQL2E1x/view?usp=sharing

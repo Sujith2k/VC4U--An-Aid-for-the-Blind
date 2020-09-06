@@ -1,0 +1,6 @@
+Person
+Billboard
+Bus
+Traffic sign
+Truck
+Currency
