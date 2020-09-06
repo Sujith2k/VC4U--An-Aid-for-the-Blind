@@ -2,5 +2,5 @@
 
 
 # Team Members:
-Sujith Krishna S
+Sujith Krishna S.
 Thiruvikkraman S
