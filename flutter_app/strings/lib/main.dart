@@ -217,7 +217,6 @@ class _HomeState extends State<Home> {
       String extractText = await TesseractOcr.extractText(imagePath);
       print('[DEBUG] OCR Results : $extractText');
       Results_text = extractText.toString();
-      Results_text = 'FIRE EXIT';
       ReadOut(Results_text);
     }
 
@@ -228,7 +227,6 @@ class _HomeState extends State<Home> {
       print('[DEBUG] Objects: $results');
       loadmodel();
       Results_text = results[0]['label'] + 'Rupee Currency detected';
-      Results_text = '100 Rupee Currency detected';
       ReadOut(Results_text );
     }
 
